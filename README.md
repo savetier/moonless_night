@@ -1,4 +1,4 @@
-# Moonless Night White
+# Moonless Night
 
 Dark and minimalistic icon set for GNU/Linux
 
